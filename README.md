@@ -4,5 +4,4 @@
 
 Problems Set:
 
-[!image](https://github.com/Einsgates/FacebookInterviews/blob/master/img/ProblemsSet.png)
-
+![Set](https://github.com/Einsgates/FacebookInterviews/blob/master/img/ProblemsSet.png)
