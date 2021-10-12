@@ -6,6 +6,8 @@ The ocean is to the right of the buildings. A building has an ocean view if the 
 
 Return a list of indices (**0-indexed**) of buildings that have an ocean view, sorted in increasing order.
 
+![image](https://github.com/Einsgates/FacebookInterviews/blob/master/img/1762.png)
+
 **Example 1:**
 
 ```
