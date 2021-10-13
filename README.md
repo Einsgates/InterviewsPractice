@@ -2,6 +2,8 @@
 
 **Around 6 months**
 
+[YouTube Videos](https://www.youtube.com/watch?v=27_NEXqkTgw&list=PLN_D6sQhgsu_ErURuCTV9Z7QKobwr9SvK)
+
 Problems Set:
 
 ![Set](https://github.com/Einsgates/FacebookInterviews/blob/master/img/ProblemsSet.png)
