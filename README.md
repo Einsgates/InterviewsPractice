@@ -15,7 +15,6 @@ Problems Set:
 - [953. Verifying an Alien Dictionary](https://github.com/Einsgates/FacebookInterviews/blob/master/953_VerifyinganAlienDictionary.md)
 - [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/Einsgates/FacebookInterviews/blob/master/426_ConvertBinarySearchTreetoSortedDoublyLinkedList.md)
 - [938. Range Sum of BST ](https://github.com/Einsgates/FacebookInterviews/blob/master/938_RangeSumofBST.md)
-- [426. Convert Binary Search Tree to Sorted Doubly Linked List]()
 - [973. K Closest Points to Origin](https://github.com/Einsgates/FacebookInterviews/blob/master/973_KClosestPointstoOrigin.md)
 - [1650. Lowest Common Ancestor of a Binary Tree III]()
 - [560. Subarray Sum Equals K]()
