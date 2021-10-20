@@ -4,6 +4,10 @@
 
 [YouTube Videos](https://www.youtube.com/watch?v=27_NEXqkTgw&list=PLN_D6sQhgsu_ErURuCTV9Z7QKobwr9SvK)
 
+All **videos** are in English, but the **analysis** in my solution -- `.md` files are in Chinese.
+
+Later I will make an English version.
+
 Problems Set:
 
 ![Set](https://github.com/Einsgates/FacebookInterviews/blob/master/img/ProblemsSet.png)
