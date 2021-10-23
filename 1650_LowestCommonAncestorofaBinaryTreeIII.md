@@ -73,5 +73,5 @@ class Solution {
 }
 ```
 
-此题可参考[LeetCode160](https://leetcode.com/problems/intersection-of-two-linked-lists/)，十分类似。
+此题可参考[LeetCode160](https://leetcode.com/problems/intersection-of-two-linked-lists/)，十分类似。啊不，完全一样哈哈哈，不信你试试？！
 
