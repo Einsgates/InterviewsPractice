@@ -23,3 +23,5 @@ Problems Set:
 - [1650. Lowest Common Ancestor of a Binary Tree III](https://github.com/Einsgates/InterviewsPractice/blob/master/1650_LowestCommonAncestorofaBinaryTreeIII.md)
 - [560. Subarray Sum Equals K](https://github.com/Einsgates/InterviewsPractice/blob/master/560_SubarraySumEqualsK.md)
 - [215. Kth Largest Element in an Array](https://github.com/Einsgates/InterviewsPractice/blob/master/215_KthLargestElementinanArray.md)
+- [921. Minimum Add to Make Parentheses Valid](https://github.com/Einsgates/InterviewsPractice/blob/master/921_MinimumAddtoMakeParenthesesValid.md)
+- 
