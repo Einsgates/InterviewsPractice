@@ -25,4 +25,4 @@ Problems Set:
 - [215. Kth Largest Element in an Array](https://github.com/Einsgates/InterviewsPractice/blob/master/215_KthLargestElementinanArray.md)
 - [921. Minimum Add to Make Parentheses Valid](https://github.com/Einsgates/InterviewsPractice/blob/master/921_MinimumAddtoMakeParenthesesValid.md)
 - [227. Basic Calculator II](https://github.com/Einsgates/InterviewsPractice/blob/master/227_BasicCalculatorII.md)
-
+- [236. Lowest Common Ancestor of a Binary Tree](https://github.com/Einsgates/InterviewsPractice/blob/master/236_LowestCommonAncestorofaBinaryTree.md)
